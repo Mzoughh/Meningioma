@@ -1,0 +1,38 @@
+############################# Outline ################################
+
+Organisation Générale du projet :
+
+########## Pré-traitement des données ########
+
+- A_Préparation_DataSET
+- A_Preparation_Patient_Test_BRATS
+
+- B_Tableau_Data_CHUL
+
+##########  Entrainement du modèle ########
+
+- C_Unet_prediction_C2vf
+- job-script.sh
+- Z_trainvf.py
+
+
+##########  Prédiction du modele ########
+
+- F_Prediction_v2
+
+
+#########   Reconstruction 3Dimensions ########
+
+- G_reconstruction
+
+
+#########   Tentative d'automatisation du prétraitement de la base de données du CHUL et création d'un fichier test #######
+
+- H_Proposition_de_traitement
+
+####### Fichiers issus des codes #####
+
+- Z_brats_3dvf
+- Tableau_DataSET_CHUL
+
+Le fichier requirent.txt résume les bibliothèques utilisées
